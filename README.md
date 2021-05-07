@@ -1,7 +1,7 @@
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 # Hi 👋, Soy Emir!
 ## Cada día más cerca de ser Front End Developer!
 
-<p align="left"> <a href="https://twitter.com/emirmoretti" target="blank"><img src="https://img.shields.io/twitter/follow/emirmoretti?logo=twitter&style=for-the-badge" alt="emirmoretti" /></a></p>
 
 ### Mis redes sociales!
 
