@@ -22,7 +22,6 @@
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirmoretti&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="emirmoretti" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=emirmoretti&show_icons=true&theme=dracula&text_color=000000&hide_border=true&locale=en" alt="emirmoretti"/>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emirmoretti&show_icons=true&theme=dracula&text_color=ffffff&hide_border=true&locale=en" alt="emirmoretti" /></p>
 
 <p align="right"> <a href="https://twitter.com/emirmoretti" target="blank"><img src="https://img.shields.io/twitter/follow/emirmoretti?logo=twitter&style=for-the-badge" alt="emirmoretti" /></a></p>
